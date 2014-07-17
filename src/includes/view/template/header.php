@@ -19,7 +19,9 @@
         </div>
         <div class="collapse navbar-collapse right">
             <ul class="nav navbar-nav">
-                <li><a href="http://faucet.machinecoin.org/">Back to faucet.machinecoin.org</a></li>
+                <li><a href="http://defcoin.org/">Defcoin</a></li>
+                <li><a href="http://defcoinstats.com/">Defcoin Stats</a></li>
+                <li><a href="http://defcoin.assmeow.org/">Explorer</a></li>
             </ul>
         </div><!--/.nav-collapse -->
     </div>

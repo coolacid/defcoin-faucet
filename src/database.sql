@@ -10,8 +10,8 @@ SET time_zone = "+00:00";
 --
 -- Baza danych: `faucet`
 --
-CREATE DATABASE `faucet` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `faucet`;
+#CREATE DATABASE `faucet` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+#USE `faucet`;
 
 -- --------------------------------------------------------
 

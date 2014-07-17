@@ -64,5 +64,5 @@ function send_action(array $app)
         }
     }
 
-    header('Location: http://faucet.machinecoin.org/index.php?status='.$status.'&mac='.$value);
+    header('Location: http://faucet.defcoinstats.com/index.php?status='.$status.'&mac='.$value);
 }

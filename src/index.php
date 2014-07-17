@@ -3,7 +3,7 @@
 /**
  * Nie wyświetlamy błędów użytkownikom.
  */
-error_reporting(0);
+#error_reporting(0);
 
 /**
  * Ścieżka do użycia przy ładowaniu kolejnych plików

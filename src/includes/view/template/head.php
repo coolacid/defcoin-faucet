@@ -7,7 +7,7 @@
 <meta name="author" content="">
 <link rel="shortcut icon" href="../../docs-assets/ico/favicon.png">
 
-<title>FAUCET | faucet.machinecoin.org</title>
+<title>FAUCET | faucet.defcoinstats.com</title>
 
 <!-- Bootstrap core CSS -->
 <link href="css/bootstrap.css" rel="stylesheet">

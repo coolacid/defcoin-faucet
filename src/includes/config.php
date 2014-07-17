@@ -3,14 +3,14 @@
 return array(
     'rpc' => array(
         'host' => '127.0.0.1',
-        'port' => '40332',
+        'port' => '',
         'name' => '',
         'pass' => '',
     ),
     'database' => array(
         'host' => 'localhost',
-        'user' => 'USER',
-        'pass' => 'PASSWORD',
-        'name' => 'DBNAME',
+        'user' => '',
+        'pass' => '',
+        'name' => '',
     ),
 );
